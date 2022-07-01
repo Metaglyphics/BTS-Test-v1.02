@@ -1,7 +1,6 @@
 * {  
     margin: 0px;
     padding: 0px;
-
 }
 
 html {   /* Page Backgroud Image*/
@@ -10,9 +9,6 @@ html {   /* Page Backgroud Image*/
     background-size: cover;
     background-repeat: no-repeat;
     box-sizing: content-box;
-    width: 1500px;
-    height: 1000px;
-
 }
 
 .banner { /* Title and Subtitle*/
@@ -22,6 +18,8 @@ html {   /* Page Backgroud Image*/
 
 .columnB {   /* Image with quote on right side of page. Currently Mac Miller Best Day Ever*/
     position: relative;
-    left: 750px;
-    top:400px;
+    top:350px;
+    float:right;
 }
+
+
