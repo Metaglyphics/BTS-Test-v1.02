@@ -1,0 +1,27 @@
+* {  
+    margin: 0px;
+    padding: 0px;
+
+}
+
+html {   /* Page Backgroud Image*/
+    background-image: url("./images/dark_Iceberg.png");
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-sizing: content-box;
+    width: 1500px;
+    height: 1000px;
+
+}
+
+.banner { /* Title and Subtitle*/
+    text-align: center;
+    font-size: 42px;
+}
+
+.columnB {   /* Image with quote on right side of page. Currently Mac Miller Best Day Ever*/
+    position: relative;
+    left: 750px;
+    top:400px;
+}
